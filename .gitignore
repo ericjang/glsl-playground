@@ -1,3 +1,6 @@
+devnotes.txt
+*.pro.user*
+
 # Compiled Object files
 *.slo
 *.lo
